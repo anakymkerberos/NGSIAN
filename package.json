@@ -1,0 +1,24 @@
+{
+  "name": "ngsian",
+  "version": "1.0.0",
+  "description": "version web sian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anakymkerberos/NGSIAN.git"
+  },
+  "keywords": [
+    "web",
+    "sian",
+    "erp"
+  ],
+  "author": "anakym kerberos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anakymkerberos/NGSIAN/issues"
+  },
+  "homepage": "https://github.com/anakymkerberos/NGSIAN#readme"
+}
